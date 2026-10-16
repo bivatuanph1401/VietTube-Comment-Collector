@@ -1,0 +1,13 @@
+
+# File chua API key
+api_key.txt
+key.txt
+secret.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# File tam cua editor
+.vscode/
